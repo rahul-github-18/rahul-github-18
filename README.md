@@ -26,7 +26,7 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 </a>
 
 </p>
----
+
 
 # 👨‍💻 About Me
 
