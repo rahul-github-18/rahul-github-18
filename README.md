@@ -95,37 +95,32 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 - ✅ Software Maintenance & Bug Fixing
 - ✅ Performance Optimization
 - ✅ Version Control with Git & GitHub
+
+
 # Featured Projects
 
-#### ▸ Job Portal
+<table>
+<tr>
+<td width="25%"><strong>Job Portal</strong></td>
+<td>Spring Boot, React, PostgreSQL, JWT authentication, recruiter & candidate dashboard.</td>
+</tr>
 
-**Java • Spring Boot • React • PostgreSQL**
+<tr>
+<td><strong>Code Diary</strong></td>
+<td>Interactive coding platform with notes, quizzes, compiler, and interview preparation.</td>
+</tr>
 
-Recruitment platform with JWT authentication, role-based authorization, and RESTful APIs.
+<tr>
+<td><strong>ERP Management System</strong></td>
+<td>Enterprise application for production, inventory, workflow, and employee management.</td>
+</tr>
 
----
+<tr>
+<td><strong>Sorting Visualizer</strong></td>
+<td>Java desktop application for visualizing sorting algorithms in real time.</td>
+</tr>
 
-#### ▸ Code Diary
-
-**React • JavaScript • REST API**
-
-Online coding platform with notes, quizzes, coding challenges, and interview preparation.
-
----
-
-#### ▸ ERP Management System
-
-**Java • Spring Boot • MySQL**
-
-ERP solution for production, inventory, workflow, and employee management.
-
----
-
-#### ▸ Sorting Visualizer
-
-**Java • Swing**
-
-Interactive desktop application demonstrating sorting algorithms through visualization.
+</table>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!<br>
