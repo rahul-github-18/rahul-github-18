@@ -85,7 +85,7 @@ Building scalable backend systems, RESTful APIs, and enterprise web applications
 
 | Domain | Expertise |
 |---------|-----------|
-| **Backend Development** | Java, Spring Boot, PHP, CodeIgniter |
+| **Backend Development** | Java, Spring Boot, Hibernate, JPA, PHP, CodeIgniter |
 | **Frontend Development** | React, HTML5, CSS3, JavaScript |
 | **API Development** | RESTful APIs, Third-Party API Integration |
 | **Database** | MySQL, PostgreSQL, Query Optimization |
