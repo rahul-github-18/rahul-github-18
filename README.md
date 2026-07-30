@@ -103,7 +103,7 @@ Building scalable backend systems, RESTful APIs, and enterprise web applications
 |---------|-------------|
 | **Job Portal** | Full Stack recruitment platform built with Spring Boot, React, PostgreSQL, JWT Authentication, recruiter & candidate dashboards, and RESTful APIs. |
 | **Code Diary** | Online coding platform featuring learning resources, coding challenges, quizzes, interview preparation, and an integrated code editor. |
-| **ERP Management System** | Enterprise solution for production, inventory, employee, workflow, and administrative management. |
+| **Factory Operations Management System** | Enterprise solution for production, inventory, employee, workflow, and administrative management. |
 | **Sorting Visualizer** | Java desktop application that visualizes sorting algorithms with real-time animations and complexity comparison. |
 
 ---
