@@ -82,17 +82,18 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-# Professional Expertise
+# Core Expertise
 
-- **Backend Development** — Java, Spring Boot, PHP, CodeIgniter
-- **Full Stack Web Development** — React, RESTful APIs, MySQL, PostgreSQL
-- **API Design & Integration** — REST API Development, Third-Party Integrations
-- **Database Engineering** — Database Design, Query Optimization & Performance Tuning
-- **Authentication & Security** — JWT Authentication, Spring Security, Role-Based Access Control
-- **Software Deployment** — Railway, Vercel, Production Environment Setup
-- **Application Maintenance** — Bug Fixing, Feature Enhancements & Performance Optimization
-- **Version Control** — Git, GitHub & Collaborative Development
-
+![Java](https://img.shields.io/badge/Java-Backend-orange?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-REST_APIs-success?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-CodeIgniter-777BB4?style=flat-square)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-Database-00758F?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=flat-square)
+![Railway](https://img.shields.io/badge/Railway-Deployment-black?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-Hosting-black?style=flat-square)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square)
   
 
 # Featured Projects
