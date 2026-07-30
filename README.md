@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Ranjan</h1>
+<h1 align="center">Hi , I'm Rahul Ranjan</h1>
 
 <h3 align="center">
 Software Developer | Java • Spring Boot • PHP • CodeIgniter • React • PostgreSQL
@@ -28,7 +28,7 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 </p>
 
 
-# 👨‍💻 About Me
+# About Me
 
 - 💼 Software Developer specializing in **Backend & Full Stack Development**
 - 🚀 Currently working with **PHP, CodeIgniter, Java, Spring Boot, MySQL, REST API Integration, Software Deployment, and Software Maintenance**
@@ -39,7 +39,7 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 
 
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ## 💻 Programming Languages
 
