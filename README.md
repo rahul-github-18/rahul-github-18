@@ -30,13 +30,15 @@ Building scalable backend systems, RESTful APIs, and enterprise web applications
 
 # About Me
 
-- 💼 Software Developer focused on **Backend & Full Stack Development**
-- 🚀 Working with **Java, Spring Boot, PHP, CodeIgniter, React, MySQL & PostgreSQL**
-- 🔗 Developing and integrating **RESTful APIs** for enterprise applications
-- 🚢 Experienced in **Software Deployment, Maintenance & Production Support**
-- 🌱 Currently learning **System Design, Microservices, Cloud & Advanced DSA**
-- 📫 **Email:** **rahulranjan62067@gmail.com**
-- 🌐 **Portfolio:** **https://rrdeveloper.vercel.app**
+-## About Me
+
+- Software Developer focused on **Backend & Full Stack Development**
+- Working with **Java, Spring Boot, PHP, CodeIgniter, React, MySQL & PostgreSQL**
+- Developing and integrating **RESTful APIs** for enterprise applications
+- Experienced in **Software Deployment, Maintenance & Production Support**
+- Currently learning **System Design, Microservices, Cloud & Advanced DSA**
+- 📧 Email: **rahulranjan62067@gmail.com**
+- 🌐 Portfolio: **rrdeveloper.vercel.app**
 
 ---
 
