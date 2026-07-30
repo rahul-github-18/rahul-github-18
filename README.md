@@ -1,8 +1,8 @@
-<h1 align="center">Hi , I'm Rahul Ranjan</h1>
+<h1 align="center">Rahul Ranjan</h1>
 
-<h3 align="center">
-Software Developer | Java • Spring Boot • PHP • CodeIgniter • React • PostgreSQL
-</h3>
+<p align="center">
+Software Developer • Java • Spring Boot • PHP • React • PostgreSQL
+</p>
 
 <p align="center">
 Passionate about building scalable web applications, RESTful APIs, enterprise software, and delivering reliable software solutions.
