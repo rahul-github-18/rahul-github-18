@@ -100,39 +100,30 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 # 🌟 Featured Projects
 
 ## 💼 Job Portal
-**Spring Boot • React • PostgreSQL • JWT Authentication**
+**Tech Stack:** Java • Spring Boot • React • PostgreSQL • Spring Security • JWT • REST API
 
-A complete recruitment platform with secure authentication, role-based access, and RESTful APIs.
+A modern recruitment platform featuring secure JWT authentication, role-based access control, recruiter and candidate dashboards, job management, and RESTful API integration.
 
-
+---
 
 ## 📘 Code Diary
+**Tech Stack:** React • JavaScript • REST API • Vercel
 
-An online coding learning platform featuring notes, quizzes, coding challenges, and interview preparation resources.
+An interactive coding platform offering structured learning paths, notes, coding challenges, quizzes, interview preparation resources, and an online code editor.
 
-
+---
 
 ## 🏢 ERP Management System
+**Tech Stack:** Java • Spring Boot • React • MySQL • JWT
 
-Enterprise application for production, inventory, employee, and workflow management.
+A comprehensive enterprise resource planning system for managing production, inventory, employee records, workflow automation, and administrative operations.
 
-
+---
 
 ## 📊 Sorting Visualizer
+**Tech Stack:** Java • Swing • AWT
 
-Java desktop application that demonstrates sorting algorithms with real-time visualizations.
-
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul-github-18&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-github-18&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahul-github-18&theme=github-dark&hide_border=true" />
-</p>
+A desktop application that visualizes popular sorting algorithms through real-time animations, helping users understand algorithm behavior, time complexity, and performance comparisons.
 
 
 <p align="center">
