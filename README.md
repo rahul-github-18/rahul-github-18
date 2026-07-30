@@ -30,7 +30,6 @@ Building scalable backend systems, RESTful APIs, and enterprise web applications
 
 # About Me
 
--## About Me
 
 - Software Developer focused on **Backend & Full Stack Development**
 - Working with **Java, Spring Boot, PHP, CodeIgniter, React, MySQL & PostgreSQL**
