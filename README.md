@@ -82,20 +82,18 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
+# Professional Expertise
 
-# 💼 Professional Expertise
+- **Backend Development** — Java, Spring Boot, PHP, CodeIgniter
+- **Full Stack Web Development** — React, RESTful APIs, MySQL, PostgreSQL
+- **API Design & Integration** — REST API Development, Third-Party Integrations
+- **Database Engineering** — Database Design, Query Optimization & Performance Tuning
+- **Authentication & Security** — JWT Authentication, Spring Security, Role-Based Access Control
+- **Software Deployment** — Railway, Vercel, Production Environment Setup
+- **Application Maintenance** — Bug Fixing, Feature Enhancements & Performance Optimization
+- **Version Control** — Git, GitHub & Collaborative Development
 
-- ✅ Full Stack Web Development
-- ✅ Backend Development (Java, Spring Boot, PHP)
-- ✅ RESTful API Development & Integration
-- ✅ CodeIgniter Application Development
-- ✅ Database Design & Optimization
-- ✅ Authentication & Authorization (JWT, Spring Security)
-- ✅ Software Deployment (Railway, Vercel)
-- ✅ Software Maintenance & Bug Fixing
-- ✅ Performance Optimization
-- ✅ Version Control with Git & GitHub
-
+  
 
 # Featured Projects
 
