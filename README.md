@@ -57,18 +57,6 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 
 ---
 
-## 💼 What I'm Working On
-
-- ✅ Enterprise Web Applications
-- ✅ RESTful API Development & Integration
-- ✅ PHP & CodeIgniter Development
-- ✅ Java Spring Boot Backend Development
-- ✅ Database Design & Optimization
-- ✅ Software Deployment (Railway & Vercel)
-- ✅ Software Maintenance & Bug Fixing
-- ✅ Authentication & Authorization (JWT & Spring Security)
-
----
 
 ## 🌟 Featured Projects
 
@@ -84,15 +72,7 @@ Production & Inventory Management System
 ### 📊 Sorting Visualizer
 Java Desktop Application for Algorithm Visualization
 
----
 
-## 📫 Connect With Me
-
-🌐 **Portfolio:** https://rrdeveloper.vercel.app
-
-📧 **Email:** rahulranjan62067@gmail.com
-
----
 
 <p align="center">
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
