@@ -37,7 +37,7 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 - 📫 **Email:** rahulranjan62067@gmail.com
 - 🌐 **Portfolio:** https://rrdeveloper.vercel.app
 
----
+
 
 # 🚀 Tech Stack
 
@@ -47,7 +47,7 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+
 
 ## 🎨 Frontend
 
@@ -55,7 +55,6 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 ## ⚙️ Backend
 
@@ -64,14 +63,13 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
----
 
 ## 🗄️ Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+
 
 ## ☁️ Tools & Technologies
 
@@ -83,7 +81,7 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+
 
 # 💼 Professional Expertise
 
@@ -98,8 +96,7 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 - ✅ Performance Optimization
 - ✅ Version Control with Git & GitHub
 
----
-
+  
 # 🌟 Featured Projects
 
 ## 💼 Job Portal
@@ -107,43 +104,36 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 
 A complete recruitment platform with secure authentication, role-based access, and RESTful APIs.
 
----
+
 
 ## 📘 Code Diary
 
 An online coding learning platform featuring notes, quizzes, coding challenges, and interview preparation resources.
 
----
+
 
 ## 🏢 ERP Management System
 
 Enterprise application for production, inventory, employee, and workflow management.
 
----
+
 
 ## 📊 Sorting Visualizer
 
 Java desktop application that demonstrates sorting algorithms with real-time visualizations.
 
----
 
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul-github-18&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-github-18&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul-github-18&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-github-18&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-github-18&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=rahul-github-18&theme=github-dark&hide_border=true" />
 </p>
 
----
 
 <p align="center">
 ⭐ Thanks for visiting my profile!<br>
