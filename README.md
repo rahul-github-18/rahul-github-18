@@ -11,7 +11,7 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 ## 👨‍💻 About Me
 
 - 💼 Software Developer with experience in **Backend & Full Stack Development**
-- 🚀 Currently working on **PHP, CodeIgniter, MySQL, REST API Integration, Software Deployment & Software Maintenance**
+- 🚀 Currently working on **PHP, CodeIgniter, Java, Springbot, MySQL, REST API Integration, Software Deployment & Software Maintenance**
 - 🌱 Learning **System Design, Microservices & Advanced DSA**
 - 💻 Passionate about building scalable and secure enterprise applications
 - 📫 Email: **rahulranjan62067@gmail.com**
