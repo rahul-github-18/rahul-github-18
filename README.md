@@ -96,35 +96,37 @@ Passionate about building scalable web applications, RESTful APIs, enterprise so
 - ✅ Performance Optimization
 - ✅ Version Control with Git & GitHub
 
-  
-# 🌟 Featured Projects
+# Featured Projects
 
-## 💼 Job Portal
-**Tech Stack:** Java • Spring Boot • React • PostgreSQL • Spring Security • JWT • REST API
+### Job Portal
 
-A modern recruitment platform featuring secure JWT authentication, role-based access control, recruiter and candidate dashboards, job management, and RESTful API integration.
+**Tech Stack:** Java • Spring Boot • React • PostgreSQL • Spring Security • JWT
+
+A recruitment platform with secure authentication, role-based access control, recruiter and candidate dashboards, and RESTful APIs.
 
 ---
 
-## 📘 Code Diary
+### Code Diary
+
 **Tech Stack:** React • JavaScript • REST API • Vercel
 
-An interactive coding platform offering structured learning paths, notes, coding challenges, quizzes, interview preparation resources, and an online code editor.
+A coding platform offering structured learning resources, coding challenges, quizzes, and interview preparation.
 
 ---
 
-## 🏢 ERP Management System
-**Tech Stack:** Java • Spring Boot • React • MySQL • JWT
+### ERP Management System
 
-A comprehensive enterprise resource planning system for managing production, inventory, employee records, workflow automation, and administrative operations.
+**Tech Stack:** Java • Spring Boot • React • MySQL
+
+Enterprise software for production, inventory, employee, and workflow management.
 
 ---
 
-## 📊 Sorting Visualizer
+### Sorting Visualizer
+
 **Tech Stack:** Java • Swing • AWT
 
-A desktop application that visualizes popular sorting algorithms through real-time animations, helping users understand algorithm behavior, time complexity, and performance comparisons.
-
+Desktop application that visualizes sorting algorithms with real-time animations and performance comparison.
 
 <p align="center">
 ⭐ Thanks for visiting my profile!<br>
