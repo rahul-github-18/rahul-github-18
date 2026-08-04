@@ -101,8 +101,8 @@ Building scalable backend systems, RESTful APIs, and enterprise web applications
 
 | Project | Description |
 |---------|-------------|
-| **Job Portal** | Full Stack recruitment platform built with Spring Boot, React, PostgreSQL, JWT Authentication, recruiter & candidate dashboards, and RESTful APIs. |
-| **Code Diary** | Online coding platform featuring learning resources, coding challenges, quizzes, interview preparation, and an integrated code editor. |
+| **[Talent Track - Job Portal](https://talenttrack.up.railway.app)** | Full Stack recruitment platform built with Spring Boot, React, PostgreSQL, JWT Authentication, recruiter & candidate dashboards, and RESTful APIs. |
+| **[Code Diary](https://kodediary.vercel.app)** | Online coding platform featuring learning resources, coding challenges, quizzes, interview preparation, and an integrated code editor. |
 | **Factory Operations Management System** | Enterprise solution for production, inventory, employee, workflow, and administrative management. |
 | **Sorting Visualizer** | Java desktop application that visualizes sorting algorithms with real-time animations and complexity comparison. |
 
